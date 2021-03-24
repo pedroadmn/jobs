@@ -1,0 +1,480 @@
+{
+    "companies": [
+
+      {
+        "companyName": "Adidas",
+        "url": "https://careers.adidas-group.com/jobs?location=&offset=0&keywords=&location_manual=",
+        "cover": "https://pbs.twimg.com/profile_images/1190383308636639232/ss1XNAnE.jpg"
+      },
+      
+      {
+        "companyName": "Adobe",
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced",
+        "cover": "https://www.dpreview.com/files/p/articles/2988339509/BlogHeader_150-1-1800x0-c-default_copy.jpeg"
+      },
+      
+      {
+        "companyName": "Airbnb",
+        "url": "https://careers.airbnb.com/",
+        "cover": "https://qulture.rocks/wp-content/uploads/2015/04/Airbnb.jpg"
+      },
+
+      {
+        "companyName": "Americanas",
+        "url": "https://talentos.lasa.com.br/",
+        "cover": "https://webpromocoes.com.br/wp-content/uploads/2018/05/site-americanas-e-confiavel-1024x500.jpg"
+      },
+      
+      {
+        "companyName": "American Airlines",
+        "url": "https://jobs.aa.com/search/",
+        "cover": "https://s21.q4cdn.com/616071541/files/multimedia-gallery/assets/Logos/american-airlines/THUMB-aa_aa__ahz_4cp_grd_pos.png"
+      },
+      
+      {
+        "companyName": "Apple",
+        "url": "https://www.apple.com/jobs/br/",
+        "cover": "https://www.rotamaxima.com.br/wp-content/uploads/2020/04/logo.jpg"
+      },
+      
+      {
+        "companyName": "Avon",
+        "url": "https://avon.wd5.myworkdayjobs.com/AvonCareers",
+        "cover": "https://i.pinimg.com/736x/6b/18/34/6b1834183ffd0e98a65c190685915ad6.jpg"
+      },
+      
+      {
+        "companyName": "Azul",
+        "url": "https://voeazul.gupy.io/",
+        "cover": "https://www.submarinoviagens.com.br/media/18458819/logo-azul.jpg"
+      },
+      
+      {
+        "companyName": "Bob's",
+        "url": "https://www.bobs.com.br/trabalhe-conosco",
+        "cover": "https://shoppingpontanegra.com.br/wp-content/uploads/2020/01/bobs.png"
+      },
+      
+      {
+        "companyName": "Brastemp",
+        "url": "https://jobs.whirlpool.com/go/Jobs-in-Brazil/4466000/",
+        "cover": "https://img.imageboss.me/cdn/http://bimg.visie.com.br/2018/07/logo-brastemp-5.jpg"
+      },
+      
+      {
+        "companyName": "Bradesco",
+        "url": "https://bradesco.csod.com/ux/ats/careersite/1/home?c=bradesco",
+        "cover": "https://blog.cedrotech.com/wp-content/uploads/2018/02/bradesco-e1491575692677.jpg"
+      },
+      
+      {
+        "companyName": "Burguer King",
+        "url": "http://www.burgerking.com.br/carreira",
+        "cover": "https://www.logaster.com/blog/wp-content/uploads/2019/02/0146_h_burger-king-logo_16.png"
+      },
+      
+      {
+        "companyName": "C&A",
+        "url": "https://site.vagas.com.br/VagasDe1Empr.asp?t=3536",
+        "cover": "https://itaupowershopping.com.br/site2020/wp-content/uploads/2020/10/lojas-itaupower-shopping-149.png"
+      },
+      
+      {
+        "companyName": "Cabify",
+        "url": "https://cabify.careers/en-es/",
+        "cover": "https://cabify.com/cover.png"
+      },
+      
+      {
+        "companyName": "Casas Bahia",
+        "url": "https://viavarejo.gupy.io/?nid=202160",
+        "cover": "https://www.jornalcontabil.com.br/wp-content/uploads/2020/04/avatar_fb_casasbahia.png"
+      },
+      
+      {
+        "companyName": "Carrefour",
+        "url": "https://site.vagas.com.br/VagasDe1Empr.asp?t=4448",
+        "cover": "https://cdn.folhape.com.br/upload/dn_arquivo/2020/02/carrefour-3.jpg"
+      },
+      
+      {
+        "companyName": "Catho",
+        "url": "https://www.catho.com.br/vempracatho/vagas/",
+        "cover": "https://i2.wp.com/blog.brasilconsultas.com.br/wp-content/uploads/2018/12/O-que-%C3%A9-e-como-funciona-a-Catho.jpg?ssl=1"
+      },
+      
+      {
+        "companyName": "Chilli Beans",
+        "url": "https://jobs.kenoby.com/chillibeans",
+        "cover": "https://opticanet.com.br/images/materias/2020/04/508116226_Chilli_beans_logo_2017_450.png"
+      },
+      {
+        "companyName": "Chico Rei",
+        "url": "https://chicorei.com/trabalhe-conosco",
+        "cover": "https://pegacdn.s3-accelerate.amazonaws.com/novo-logotipo-chico-rei.png"
+      },
+      
+      {
+        "companyName": "China in Box",
+        "url": "http://extranet.trendfoods.com.br/site_cib/trab_c.aspx",
+        "cover": "https://upload.wikimedia.org/wikipedia/pt/7/7d/Logo-china_in_china.jpg"
+      },
+      
+      {
+        "companyName": "Centauro",
+        "url": "https://www.centauro.com.br/sc/portal-carreiras",
+        "cover": "https://cuponomia-a.akamaihd.net/img/stores/original/centauro-636995645876828000.png"
+      },
+      
+      {
+        "companyName": "Click Bus",
+        "url": "https://jobs.kenoby.com/clickbus",
+        "cover": "https://www.vidadeturista.com/wp-content/uploads/2016/06/logo-clickbus.png"
+      },
+      {
+        "companyName": "Condor",
+        "url": "https://www.condor.com.br/fale-conosco/trabalhe-conosco",
+        "cover": "https://www.condor.com.br/assets/images/card.jpg"
+      },
+      
+      {
+        "companyName": "Coursera",
+        "url": "https://jobs.lever.co/coursera",
+        "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/1200px-Coursera-Logo_600x600.svg.png"
+      },
+      {
+        "companyName": "Dafiti",
+        "url": "https://www.dafitigroup.com/oportunidades-gerais",
+        "cover": "https://pbs.twimg.com/profile_images/1280905370421116930/JKcZ8m8L_400x400.jpg"
+      },
+      
+      {
+        "companyName": "Decolar",
+        "url": "https://www.despegar.com/sumate/?&_ga=2.111828545.431596501.1616111817-1646957238.1616111817#!/#%2F",
+        "cover": "https://voenews.com.br/wp-content/uploads/2019/08/novo-logo-decolar-ponto-com-brasil-2019-696x364.jpg"
+      },
+      
+      {
+        "companyName": "Desincha",
+        "url": "https://www.desincha.com.br/pagina/trabalhe-conosco",
+        "cover": "https://www.mercadoqualidade.com.br/wp-content/uploads/2018/03/cha-desincha-com-60-qualidade-1200x1200.jpg"
+      },
+      
+      {
+        "companyName": "Dell",
+        "url": "https://carreiras.dell.com/search-jobs",
+        "cover": "https://www.dwglogo.com/wp-content/uploads/2015/11/White-Logo-of-Dell1.png"
+      },
+      
+      {
+        "companyName": "Diesel",
+        "url": "https://br.diesel.com/institucional/trabalhe-conosco",
+        "cover": "https://iguatemi.com.br/campinas/sites/campinas/files/2020-10/DIESEL-HD-preto.png"
+      },
+      
+      {
+        "companyName": "Digital Ocean",
+        "url": "https://www.digitalocean.com/careers/#anchor--current-openings",
+        "cover": "https://i2.wp.com/manjaro.site/wp-content/uploads/2017/07/DigitalOcean-Logo-1.png?fit=1000%2C523&ssl=1"
+      },
+      
+      {
+        "companyName": "Embelleze",
+        "url": "https://www.embelleze.com/Trabalhe-Conosco",
+        "cover": "https://lh3.googleusercontent.com/proxy/3vOquGgGy4cx8Wbj5tlEFua-xXI7457bN_hqDsURy1jw5twgU_ShLoHf_2ls9Ixg8maQ6cAgkI8cNNVYRANAWBJXKWmWrOaZJpTKcsqZxggIywRg9eis0SK887jYpCt3j3k"
+      },
+      
+      {
+        "companyName": "Empiricus",
+        "url": "https://jobs.kenoby.com/empiricus",
+        "cover": "https://ogimg.infoglobo.com.br/economia/23221995-ce1-f2e/FT1086A/xempiricus.jpeg.jpg.pagespeed.ic.LRhLryd8p9.jpg"
+      },
+      
+      {
+        "companyName": "Enjoei",
+        "url": "https://enjoei.gupy.io/",
+        "cover": "https://juliarolim.files.wordpress.com/2019/03/enjoei-dica-de-aplicativo-vender-online-lojinha-brenda-manea-julia-rolim-01.png?w=640"
+      },
+      
+      {
+        "companyName": "Boticario",
+        "url": "https://grupoboticario.gupy.io/",
+        "cover": "https://exame.com/wp-content/uploads/2016/09/size_960_16_9_boticario_logomarca_rosa_5901.jpg"
+      },
+      
+      {
+        "companyName": "Evino",
+        "url": "https://evino.gupy.io/",
+        "cover": "https://res.cloudinary.com/evino/image/upload/v1508501645/web/assets/opengraph/img-open-graph-about-us.png"
+      },
+      
+      {
+        "companyName": "ViaVarejo",
+        "url": "https://viavarejo.gupy.io/?icid=253384",
+        "cover": "https://dicadehoje7.com/wp-content/uploads/2020/09/maxresdefault-1.jpg"
+      },
+      
+      {
+        "companyName": "Fast Shop",
+        "url": "https://prd-pc1.lg.com.br//vagas/c/A568BA23-D108-485B-B186-0C3ED57DBA86/p/Candidato/pt-BR/Busca/Index",
+        "cover": "https://www.blogdocasamento.com.br/wp-content/uploads/fastshop_logo.jpg"
+      },
+      
+      {
+        "companyName": "Gran Concursos",
+        "url": "https://vemsergran.gupy.io/",
+        "cover": "https://cdn.abcdoabc.com.br/gran-cursos-premio_13e0f503.jpg"
+      },
+      
+      {
+        "companyName": "Groupon",
+        "url": "https://www.grouponcareers.com/",
+        "cover": "https://www.nouvelobs.com/codepromo/static/shop/31151/logo/code-promo-groupon.png"
+      },
+      {
+        "companyName": "Guiche Virtual",
+        "url": "https://www.guichevirtual.com.br/trabalhe-conosco",
+        "cover": "https://pbs.twimg.com/profile_images/1323700061692403714/70oTFaMK_400x400.png"
+      },
+      
+      {
+        "companyName": "Gympass",
+        "url": "https://www.gympass.com/us/work_with_us",
+        "cover": "https://computerworld.com.br/wp-content/uploads/2019/12/Gympass-compra-Flaner-startup-portuguesa-de-intelig%C3%AAncia-artificial-1024x580.jpg"
+      },
+      
+      {
+        "companyName": "Havan",
+        "url": "https://cliente.havan.com.br/Portal/Institucional/TrabalheConosco",
+        "cover": "https://arcofrio.com.br/novo/wp-content/uploads/2020/01/download-2.png"
+      },
+      
+      {
+        "companyName": "Expedia Group",
+        "url": "https://lifeatexpediagroup.com/jobs",
+        "cover": "https://i.pinimg.com/originals/a6/5f/42/a65f42056d83318e8bf06ad664c801f9.jpg"
+      },
+      
+      {
+        "companyName": "Hotel Urbano",
+        "url": "https://hurb.gupy.io/",
+        "cover": "https://cuponomizem.com.br/wp-content/uploads/2019/10/cupom-de-desconto-hotel-urbano.png"
+      },
+      
+      {
+        "companyName": "Ifood",
+        "url": "https://boards.greenhouse.io/ifood",
+        "cover": "https://ibcdn.canaltech.com.br/widHR3hqBrDOLwXEuHgcvmkgayA=/44x24:861x484/817x460/smart/i394859.png"
+      },
+      {
+        "companyName": "InfoJobs",
+        "url": "https://infojobs.pandape.com.br/",
+        "cover": "https://www.programapublicidad.com/wp-content/uploads/2020/09/infojobs-logo-programapublicidad-1.jpg"
+      },
+      
+      {
+        "companyName": "Jequiti",
+        "url": "https://www.catho.com.br/empregos/jequiticosmeticos/",
+        "cover": "https://www.logopik.com/wp-content/uploads/edd/2018/07/Jequiti-Vector-Logo.png"
+      },
+      
+      {
+        "companyName": "Kabum",
+        "url": "https://jobs.kenoby.com/kabum",
+        "cover": "https://cuponomia-a.akamaihd.net/img/stores/original/kabum.png"
+      },
+      
+      {
+        "companyName": "Kanui",
+        "url": "https://www.dafitigroup.com/oportunidades-gerais",
+        "cover": "https://cuponomia-a.akamaihd.net/img/stores/original/kanui-636994895591042000.png"
+      },
+      
+      {
+        "companyName": "Kopenhagen",
+        "url": "https://grupocrm.pandape.com.br/",
+        "cover": "https://iguatemi.com.br/marketplace/sites/marketplace/files/logo-1360166327443.png"
+      },
+      
+      {
+        "companyName": "Lenovo",
+        "url": "http://lenovocareers.com/#search",
+        "cover": "https://cuponomia-a.akamaihd.net/img/stores/original/lenovo-637414985253407916.png"
+      },
+      
+      {
+        "companyName": "Loggi",
+        "url": "https://carreira.loggi.com/vagas/todas-vagas/",
+        "cover": "https://www.whatsrel.com.br/wp-content/uploads/2019/07/loggi.jpg"
+      },
+      
+      {
+        "companyName": "MaxMilhas",
+        "url": "https://maxmilhas.gupy.io/",
+        "cover": "https://cuponomia-a.akamaihd.net/img/stores/original/max-milhas.png"
+      },
+      
+      {
+        "companyName": "New Balance",
+        "url": "https://www.catho.com.br/empregos/grupoaste/oportunidades.php?e=grupoaste",
+        "cover": "https://hyperpix.net/wp-content/uploads/2020/05/new-balance-logo-font-free-download-1200x675.jpg"
+      },
+      
+      {
+        "companyName": "Nespresso",
+        "url": "https://www.nespresso.com/careers/?m=BR&l=PT#/jobs",
+        "cover": "https://iguatemi.com.br/jkiguatemi/sites/jkiguatemi/files/2018-12/Nespresso.png"
+      },
+      
+      {
+        "companyName": "Natura",
+        "url": "https://www.linkedin.com/jobs/search/?f_C=6309&geoId=92000000",
+        "cover": "https://blockchainacademy.com.br/wp-content/uploads/2018/10/natura.jpg"
+      },
+      
+      {
+        "companyName": "Olist",
+        "url": "https://olist.gupy.io/",
+        "cover": "https://yt3.ggpht.com/ytc/AAUvwniww4Hr4llLTeQkhwMGcyd7d75XF3tXx5s_1v42HA=s900-c-k-c0x00ffffff-no-rj"
+      },
+      
+      {
+        "companyName": "Outback",
+        "url": "https://jobs.kenoby.com/outback",
+        "cover": "https://pbs.twimg.com/profile_images/778575984958267392/MGtDYhwg.jpg"
+      },
+      
+      {
+        "companyName": "Pagbank",
+        "url": "https://pagseguro.gupy.io/",
+        "cover": "https://stc.pagseguro.uol.com.br/publisher/online/images/71/2019/10/24/pagbank-1571940556877_1920x1919.png"
+      },
+      
+      {
+        "companyName": "Pão de Açúcar",
+        "url": "https://www.gpabr.com/euescolhogpa/",
+        "cover": "https://www.milhagempro.com.br/wp-content/uploads/2018/10/grupo-pao-de-acucar-fecha-parceria-com-a-livelo.jpg"
+      },
+      
+      {
+        "companyName": "Pernambucanas",
+        "url": "https://site.vagas.com.br/VagasDe1Empr.asp?t=1528",
+        "cover": "https://www.eadensinar.com/wp-content/uploads/2018/06/thumb-1.png"
+      },
+      
+      {
+        "companyName": "Petz",
+        "url": "https://jobs.jobconvo.com/pt-br/careers/Petz/8480624d-d00b-438d-ac61-78827031c2d1/?page=1",
+        "cover": "https://www.futurebrand.com/uploads/case-studies/_heroImage/PETZ02.jpg"
+      },
+      
+      {
+        "companyName": "Philco",
+        "url": "https://trabalheconosco.vagas.com.br/philco/oportunidades?pagina=1",
+        "cover": "https://i2.wp.com/nacionalassistencia.com.br/wp-content/uploads/2020/04/Assiste%CC%82ncia-Te%CC%81cnica-Autorizada-da-Philco-em-Bele%CC%81m-PA.png?fit=380%2C201&ssl=1"
+      },
+      {
+        "companyName": "Phillips",
+        "url": "https://www.careers.philips.com/latam/pt/search-results",
+        "cover": "https://www.livelaw.in/h-upload/2020/06/26/377050-philips.jpeg"
+      },
+      
+      {
+        "companyName": "Picpay",
+        "url": "https://picpay.gupy.io/",
+        "cover": "https://www.oficinadanet.com.br/imagens/post/32145/picpay.png"
+      },
+      {
+        "companyName": "Rappi",
+        "url": "https://www.rappi.com/jobs/open-positions",
+        "cover": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Rappi_backgr_logo.png"
+      },
+      
+      {
+        "companyName": "Renner",
+        "url": "https://www.lojasrennersa.com.br/pt_br/carreiras/renner-vagas",
+        "cover": "https://iguatemi.com.br/jkiguatemi/sites/jkiguatemi/files/2017-12/Renner.png"
+      },
+      {
+        "companyName": "Reserva",
+        "url": "https://trabalheconosco.vagas.com.br/grupo-reserva#xd_co_f=MjdjNzM2NjAyY2U4YTFiZWU1OTE2MTYyNTc4MjA0NDA=~",
+        "cover": "https://iguatemi.com.br/alphaville/sites/alphaville/files/2020-03/Reserva_logo.png"
+      },
+      
+      {
+        "companyName": "Riachuelo",
+        "url": "https://rch-prd-pc.lg.com.br/vagas/c/5298DB20-A586-4F64-969C-E02945BA99E0/p/VagasRiachuelo/pt-BR/Busca/Index",
+        "cover": "https://99prod.s3.amazonaws.com/uploads/c1723294-8cc6-4692-a9bd-8fdbcac6d50d/riachuelo.png"
+      },
+      
+      {
+        "companyName": "Schutz",
+        "url": "https://platform.senior.com.br/hcmrs/hcm/curriculo/?tenant=arezzo&tenantdomain=arezzo.com.br#!/vacancies/list",
+        "cover": "https://i.pinimg.com/280x280_RS/04/c4/8c/04c48cf07a4a48c29a73be6158d7636d.jpg"
+      },
+      {
+        "companyName": "SkyScanner",
+        "url": "https://www.skyscanner.net/jobs/current-jobs/",
+        "cover": "https://www.skyscanner.com.br/sttc/blackbird/opengraph_solid_logo.png"
+      },
+      
+      {
+        "companyName": "Sodexo",
+        "url": "https://sodexobeneficios.gupy.io/",
+        "cover": "https://blog.saipos.com/wp-content/uploads/2019/08/Sodexo-fecha-parceria-com-Rappi-SAIPOS-Sistema-para-Restaurantes.jpg"
+      },
+      
+      {
+        "companyName": "Starbucks",
+        "url": "Starbucks",
+        "cover": "https://i.pinimg.com/originals/cd/dc/7d/cddc7d0e0ae8e2945f0ed0b816787a83.png"
+      },
+      {
+        "companyName": "Submarino",
+        "url": "https://carreiras.b2w.io/vagas",
+        "cover": "https://cuponomia-a.akamaihd.net/img/stores/original/submarino-636994897619902000.png"
+      },
+      
+      {
+        "companyName": "Sympla",
+        "url": "https://www.sympla.com.br/trabalhe-conosco#jobs",
+        "cover": "https://www.mundodamusicamm.com.br/media/k2/items/cache/655cf7f08254436b1df6b279ffc38784_L.jpg"
+      },
+      
+      {
+        "companyName": "TagLivros",
+        "url": "https://taglivros.gupy.io/",
+        "cover": "https://static.taglivros.com/v4.27.0/assets/images/head/og-image.jpg"
+      },
+      
+      {
+        "companyName": "Tidal",
+        "url": "https://career.tidal.com/",
+        "cover": "https://play-lh.googleusercontent.com/XTAH_eKY6sDA0X2y5Z4WgfomKGei2lF0pNRnNC0j2t0im18NG3CHg3QkM0s-ADNC4w"
+      },
+      
+      {
+        "companyName": "Trivago",
+        "url": "https://company.trivago.com/open-positions/?gh_src=21d449cf2",
+        "cover": "https://imgcy.trivago.com/f_auto,q_auto/hardcodedimages/logo_fb.png"
+      },
+      
+      {
+        "companyName": "Udacity",
+        "url": "https://www.udacity.com/jobs#business-ops-strategy?location=all",
+        "cover": "https://d20vrrgs8k4bvw.cloudfront.net/images/open-graph/udacity.png"
+      },
+      
+      {
+        "companyName": "Udemy",
+        "url": "https://about.udemy.com/careers/?locale=en-us",
+        "cover": "https://s3.amazonaws.com/media.al-fanarmedia.org/wp-content/uploads/2020/04/17090134/udemy.jpg"
+      },
+      
+      {
+        "companyName": "Unidas",
+        "url": "https://unidas.gupy.io/",
+        "cover": "https://cuponomia-a.akamaihd.net/img/stores/original/unidas-637039042551174943.png"
+      }
+    ]
+}
